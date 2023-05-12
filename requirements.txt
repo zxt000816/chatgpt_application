@@ -1,9 +1,14 @@
 langchain
 openai
-torch==2.0.0+cu117
-torchvision==0.15.1+cu116
-torchaudio==2.0.1
 matplotlib
 pandas
 python-dotenv
 playwright
+beautifulsoup4
+chromadb
+PyPDF2
+faiss-gpu
+unstructured
+pdf2image
+pytesseract
+tabulate
