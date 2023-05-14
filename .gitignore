@@ -2,3 +2,4 @@
 .chroma/
 cv_paper/
 novel/
+__pycache__/
