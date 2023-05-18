@@ -21,3 +21,4 @@ tiktoken
 wikipedia
 redis
 gptcache
+lark
