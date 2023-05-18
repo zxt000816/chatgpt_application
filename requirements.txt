@@ -16,3 +16,4 @@ wolframalpha
 ipykernel
 kor
 markdownify
+selenium
